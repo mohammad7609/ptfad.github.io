@@ -1,0 +1,34 @@
+/* Add CSS styles for your web site here and use them in index.html. */
+
+body {
+    background-color: rgb(71, 70, 66);
+    font-family: century;
+}
+
+#titlePTFAD {
+    text-align: center;
+    font-size: xxx-large;
+    color: goldenrod;
+}
+
+hr {
+    border-color: rgb(212, 206, 206);
+}
+
+#title {
+    color: goldenrod;
+    text-align: right;
+    font-size: xx-large;
+}
+
+#textA {
+    color: rgb(130, 207, 57);
+    text-align: right;
+    font-size: x-large;
+}
+
+#tranD {
+    color: rgb(16, 196, 219);
+    text-align: right;
+    font-size : x-large;
+}
